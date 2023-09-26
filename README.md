@@ -17,10 +17,7 @@ Data Analysis: various analytical task were Performed
 ## Analysis
 
 
-## Result
-
-
-## Code and Tables
+# Findings and Results
 
 ## Total games that have been played in the Olympics
 
